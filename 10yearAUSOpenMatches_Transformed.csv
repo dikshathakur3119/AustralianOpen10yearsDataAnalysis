@@ -1,0 +1,382 @@
+player,country,matchesPlayed,MatchesWon,MatchesLost,category
+Roger Federer,SUI,70,63,7,>50
+Novak Djokovic,SRB,49,43,6,31 to 50
+Rafael Nadal,ESP,49,41,8,31 to 50
+Andy Murray,GBR,42,33,9,31 to 50
+Andy Roddick,USA,41,32,9,31 to 50
+David Ferrer,ESP,43,32,11,31 to 50
+Tomas Berdych,CZE,40,29,11,16 to 30
+Jo-Wilfried Tsonga,FRA,35,27,8,16 to 30
+Marcos Baghdatis,CYP,32,22,10,16 to 30
+Stanislas Wawrinka,SUI,30,22,8,16 to 30
+Nikolay Davydenko,RUS,32,22,10,16 to 30
+Lleyton Hewitt,AUS,32,21,11,16 to 30
+David Nalbandian,ARG,29,21,8,16 to 30
+Tommy Robredo,ESP,29,19,10,16 to 30
+Fernando Verdasco,ESP,29,18,11,16 to 30
+Richard Gasquet,FRA,28,18,10,16 to 30
+Marat Safin,RUS,22,18,4,16 to 30
+Juan Martin Del Potro,ARG,25,17,8,16 to 30
+James Blake,USA,24,17,7,16 to 30
+Marin Cilic,CRO,24,17,7,16 to 30
+Philipp Kohlschreiber,GER,26,17,9,16 to 30
+Fernando Gonzalez,CHI,23,16,7,16 to 30
+Gael Monfils,FRA,25,16,9,16 to 30
+Nicolas Almagro,ESP,24,15,9,6 to 15
+Feliciano Lopez,ESP,25,15,10,6 to 15
+Gilles Simon,FRA,22,14,8,6 to 15
+Tommy Haas,GER,22,14,8,6 to 15
+Jurgen Melzer,AUT,23,13,10,6 to 15
+Jarkko Nieminen,FIN,24,13,11,6 to 15
+Juan Carlos Ferrero,ESP,21,13,8,6 to 15
+Sebastien Grosjean,FRA,19,13,6,6 to 15
+Florian Mayer,GER,22,12,10,6 to 15
+Janko Tipsarevic,SRB,21,12,9,6 to 15
+Kei Nishikori,JPN,17,12,5,6 to 15
+Dominik Hrbaty,SVK,17,12,5,6 to 15
+Radek Stepanek,CZE,21,11,10,6 to 15
+Mario Ancic,CRO,16,11,5,6 to 15
+Mardy Fish,USA,19,11,8,6 to 15
+Ivan Ljubicic,CRO,20,11,9,6 to 15
+Mikhail Youzhny,RUS,21,11,10,6 to 15
+Fabrice Santoro,FRA,17,10,7,6 to 15
+Milos Raonic,CAN,14,10,4,6 to 15
+Juan Ignacio Chela,ARG,18,10,8,6 to 15
+Bernard Tomic,AUS,15,9,6,6 to 15
+Guillermo Garcia-Lopez,ESP,19,9,10,6 to 15
+Sam Querrey,USA,17,9,8,6 to 15
+Andre Agassi,USA,11,9,2,6 to 15
+Igor Andreev,RUS,16,8,8,6 to 15
+Ivo Karlovic,CRO,19,8,11,6 to 15
+Julien Benneteau,FRA,16,8,8,6 to 15
+Kevin Anderson,RSA,15,8,7,6 to 15
+Yen-Hsun Lu,TPE,17,7,10,6 to 15
+Denis Istomin,UZB,15,7,8,6 to 15
+John Isner,USA,13,7,6,6 to 15
+Alejandro Falla,COL,13,7,6,6 to 15
+Alexandr Dolgopolov,UKR,11,7,4,6 to 15
+Andreas Seppi,ITA,16,7,9,6 to 15
+Guillermo Canas,ARG,10,7,3,6 to 15
+Thomas Johansson,SWE,12,7,5,6 to 15
+Paul-Henri Mathieu,FRA,13,7,6,6 to 15
+Juan Monaco,ARG,16,6,10,6 to 15
+Grigor Dimitrov,BUL,10,6,4,6 to 15
+Olivier Rochus,BEL,14,6,8,6 to 15
+Jeremy Chardy,FRA,12,6,6,6 to 15
+Robby Ginepri,USA,12,6,6,6 to 15
+Amer Delic,BIH,9,5,4,1 to 5
+Stefan Koubek,AUT,10,5,5,1 to 5
+Florent Serra,FRA,13,5,8,1 to 5
+Ivan Dodig,CRO,10,5,5,1 to 5
+Taylor Dent,USA,10,5,5,1 to 5
+Viktor Troicki,SRB,11,5,6,1 to 5
+Robin Soderling,SWE,11,5,6,1 to 5
+Xavier Malisse,BEL,15,5,10,1 to 5
+Blaz Kavcic,SLO,10,5,5,1 to 5
+Nicolas Mahut,FRA,11,5,6,1 to 5
+Andrei Pavel,ROU,10,5,5,1 to 5
+Guillermo Coria,ARG,8,5,3,1 to 5
+Joachim Johansson,SWE,8,5,3,1 to 5
+Gaston Gaudio,ARG,9,5,4,1 to 5
+Nicolas Kiefer,GER,9,5,4,1 to 5
+Dmitry Tursunov,RUS,13,5,8,1 to 5
+Dudi Sela,ISR,12,4,8,1 to 5
+Victor Hanescu,ROU,15,4,11,1 to 5
+Michael Berrer,GER,10,4,6,1 to 5
+Fabio Fognini,ITA,11,4,7,1 to 5
+Evgeny Korolev,KAZ,8,4,4,1 to 5
+Stephane Robert,FRA,8,4,4,1 to 5
+Donald Young,USA,9,4,5,1 to 5
+Michael Llodra,FRA,14,4,10,1 to 5
+Marcel Granollers,ESP,11,4,7,1 to 5
+Thomaz Bellucci,BRA,10,4,6,1 to 5
+Marc Gicquel,FRA,8,4,4,1 to 5
+Lukas Lacko,SVK,11,4,7,1 to 5
+Richard Berankis,LTU,7,4,3,1 to 5
+Jan Hernych,CZE,8,4,4,1 to 5
+Edouard Roger-Vasselin,FRA,8,4,4,1 to 5
+Jerzy Janowicz,POL,6,4,2,1 to 5
+Roberto Bautista-Agut,ESP,7,4,3,1 to 5
+Hicham Arazi,MAR,5,4,1,1 to 5
+Paradorn Srichaphan,THA,8,4,4,1 to 5
+Tim Henman,GBR,7,4,3,1 to 5
+Gilles Muller,LUX,11,3,8,1 to 5
+Albert Montanes,ESP,14,3,11,1 to 5
+Lukasz Kubot,POL,8,3,5,1 to 5
+Santiago Giraldo,COL,8,3,5,1 to 5
+Benjamin Becker,GER,10,3,7,1 to 5
+Rainer Schuettler,GER,11,3,8,1 to 5
+Robin Haase,NED,9,3,6,1 to 5
+Sergiy Stakhovsky,UKR,9,3,6,1 to 5
+Benoit Paire,FRA,7,3,4,1 to 5
+Frederico Gil,POR,6,3,3,1 to 5
+Mikhail Kukushkin,KAZ,7,3,4,1 to 5
+Mark Philippoussis,AUS,5,3,2,1 to 5
+Sjeng Schalken,NED,5,3,2,1 to 5
+Karol Beck,SVK,7,3,4,1 to 5
+Kevin Kim,USA,6,3,3,1 to 5
+Nathan Healey,AUS,5,3,2,1 to 5
+Agustin Calleri,ARG,9,3,6,1 to 5
+Kristof Vliegen,BEL,8,3,5,1 to 5
+Peter Luczak,AUS,10,3,7,1 to 5
+Max Mirnyi,BLR,7,3,4,1 to 5
+Denis Gremelmayr,GER,7,3,4,1 to 5
+Wayne Arthurs,AUS,7,3,4,1 to 5
+Vince Spadea,USA,9,3,6,1 to 5
+Ernests Gulbis,LAT,8,2,6,1 to 5
+Arnaud Clement,FRA,10,2,8,1 to 5
+Andreas Beck,GER,3,2,1,1 to 5
+Illya Marchenko,UKR,5,2,3,1 to 5
+Igor Kunitsyn,RUS,7,2,5,1 to 5
+Andrey Golubev,KAZ,7,2,5,1 to 5
+Ryan Sweeting,USA,4,2,2,1 to 5
+Michael Russell,USA,9,2,7,1 to 5
+Pere Riba,ESP,4,2,2,1 to 5
+Adrian Mannarino,FRA,7,2,5,1 to 5
+Tatsuma Ito,JPN,4,2,2,1 to 5
+James Duckworth,AUS,5,2,3,1 to 5
+Pablo Andujar,ESP,7,2,5,1 to 5
+Alex Jr. Bogomolov,RUS,7,2,5,1 to 5
+Matthew Ebden,AUS,6,2,4,1 to 5
+Ricardo Mello,BRA,6,2,4,1 to 5
+Tobias Kamke,GER,6,2,4,1 to 5
+Carlos Berlocq,ARG,8,2,6,1 to 5
+Flavio Cipolla,ITA,6,2,4,1 to 5
+Evgeny Donskoy,RUS,3,2,1,1 to 5
+Jesse Levine,CAN,5,2,3,1 to 5
+Todd Reid,AUS,4,2,2,1 to 5
+Albert Costa,ESP,4,2,2,1 to 5
+Bobby Reynolds,USA,7,2,5,1 to 5
+Jean-Rene Lisnard,MON,5,2,3,1 to 5
+Sargis Sargsian,ARM,4,2,2,1 to 5
+Bohdan Ulihrach,CZE,4,2,2,1 to 5
+Bjorn Phau,GER,9,2,7,1 to 5
+Luis Horna,PER,7,2,5,1 to 5
+Danai Udomchoke,THA,5,2,3,1 to 5
+Nicolas Lapentti,ECU,6,2,4,1 to 5
+Paul Capdeville,CHI,4,2,2,1 to 5
+Simone Bolelli,ITA,6,2,4,1 to 5
+Chris Guccione,AUS,8,2,6,1 to 5
+Jiri Novak,CZE,3,2,1,1 to 5
+Wayne Ferreira,RSA,3,2,1,1 to 5
+Olivier Patience,FRA,6,2,4,1 to 5
+Gustavo Kuerten,BRA,3,2,1,1 to 5
+Todd Martin,USA,3,2,1,1 to 5
+Nicolas Escude,FRA,3,2,1,1 to 5
+Thomas Enqvist,SWE,4,2,2,1 to 5
+Teimuraz Gabashvili,RUS,7,2,5,1 to 5
+Martin Klizan,SVK,4,2,2,1 to 5
+Vasek Pospisil,CAN,2,2,0,1 to 5
+Damir Dzumhur,BIH,3,2,1,1 to 5
+Roko Karanusic,CRO,5,1,4,1 to 5
+Sebastien de Chaunac,FRA,3,1,2,1 to 5
+Ivan Sergeyev,UKR,2,1,1,1 to 5
+Marco Chiudinelli,SUI,3,1,2,1 to 5
+Jan Hajek,CZE,6,1,5,1 to 5
+Marsel Ilhan,TUR,3,1,2,1 to 5
+Louk Sorensen,IRL,2,1,1,1 to 5
+Antonio Veic,CRO,2,1,1,1 to 5
+Wayne Odesnik,USA,5,1,4,1 to 5
+Eduardo Schwank,ARG,3,1,2,1 to 5
+Philipp Petzschner,GER,5,1,4,1 to 5
+Amir Weintraub,ISR,2,1,1,1 to 5
+Daniel Brands,GER,4,1,3,1 to 5
+Lukas Rosol,CZE,4,1,3,1 to 5
+Go Soeda,JPN,4,1,3,1 to 5
+Joao Sousa,POR,3,1,2,1 to 5
+Rajeev Ram,USA,4,1,3,1 to 5
+Somdev Devvarman,IND,4,1,3,1 to 5
+Tim Smyczek,USA,3,1,2,1 to 5
+Ryan Harrison,USA,6,1,5,1 to 5
+Andrey Kuznetsov,RUS,2,1,1,1 to 5
+Brian Baker,USA,2,1,1,1 to 5
+Daniel Gimeno-Traver,ESP,7,1,6,1 to 5
+Guillaume Rufin,FRA,3,1,2,1 to 5
+Santiago Ventura,ESP,3,1,2,1 to 5
+Mariano Zabaleta,ARG,4,1,3,1 to 5
+Greg Rusedski,GBR,3,1,2,1 to 5
+Nicolas Massu,CHI,7,1,6,1 to 5
+Gregory Carraz,FRA,3,1,2,1 to 5
+Christophe Rochus,BEL,7,1,6,1 to 5
+Takao Suzuki,JPN,2,1,1,1 to 5
+Tomas Zib,CZE,3,1,2,1 to 5
+Peter Wessels,NED,2,1,1,1 to 5
+Michal Tabara,CZE,3,1,2,1 to 5
+Boris Pashanski,SRB,3,1,2,1 to 5
+Raemon Sluiter,NED,4,1,3,1 to 5
+Paul Goldstein,USA,3,1,2,1 to 5
+Dick Norman,BEL,2,1,1,1 to 5
+Davide Sanguinetti,ITA,4,1,3,1 to 5
+Federico Luzzi,ITA,3,1,2,1 to 5
+Lars Burgsmuller,GER,4,1,3,1 to 5
+Daniele Bracciali,ITA,4,1,3,1 to 5
+Jean-Christophe Faurel,FRA,2,1,1,1 to 5
+Wesley Moodie,RSA,3,1,2,1 to 5
+Jimmy Wang,TPE,4,1,3,1 to 5
+Alex Kuznetsov,USA,3,1,2,1 to 5
+Mischa Zverev,GER,6,1,5,1 to 5
+Robert Smeets,AUS,3,1,2,1 to 5
+Frank Dancevic,CAN,6,1,5,1 to 5
+Ilija Bozoljac,SRB,2,1,1,1 to 5
+Jonas Bjorkman,SWE,5,1,4,1 to 5
+Zack Fleishman,USA,3,1,2,1 to 5
+Lukas Dlouhy,CZE,4,1,3,1 to 5
+Alun Jones,AUS,4,1,3,1 to 5
+Hyung-Taik Lee,KOR,6,1,5,1 to 5
+Oscar Hernandez,ESP,7,1,6,1 to 5
+Sam Warburg,USA,2,1,1,1 to 5
+Brydan Klein,AUS,3,1,2,1 to 5
+Brian Dabul,ARG,3,1,2,1 to 5
+Alex Corretja,ESP,2,1,1,1 to 5
+Filippo Volandri,ITA,10,1,9,1 to 5
+Thierry Ascione,FRA,4,1,3,1 to 5
+Jan Vacek,CZE,2,1,1,1 to 5
+Jeff Morrison,USA,2,1,1,1 to 5
+Glenn Weiner,USA,2,1,1,1 to 5
+Alberto Martin,ESP,5,1,4,1 to 5
+David Sanchez-Munoz,ESP,3,1,2,1 to 5
+Cyril Saulnier,FRA,4,1,3,1 to 5
+Karol Kucera,SVK,2,1,1,1 to 5
+Jerome Golmard,FRA,2,1,1,1 to 5
+Galo Blanco,ESP,2,1,1,1 to 5
+Jan-Michael Gambill,USA,3,1,2,1 to 5
+Jack Sock,USA,2,1,1,1 to 5
+Vincent Millot,FRA,3,1,2,1 to 5
+Thanasi Kokkinakis,AUS,2,1,1,1 to 5
+Dusan Lajovic,SRB,2,1,1,1 to 5
+Blaz Rola,SLO,2,1,1,1 to 5
+Nick Kyrgios,AUS,2,1,1,1 to 5
+Michal Przysiezny,POL,3,1,2,1 to 5
+Leonardo Mayer,ARG,6,1,5,1 to 5
+Kenny de Schepper,FRA,3,1,2,1 to 5
+Dominic Thiem,AUT,2,1,1,1 to 5
+Carsten Ball,AUS,3,0,3,0
+Colin Ebelthite,AUS,1,0,1,0
+Martin Vassallo Arguello,ARG,4,0,4,0
+Peter Polansky,CAN,1,0,1,0
+Steve Darcis,BEL,4,0,4,0
+Potito Starace,ITA,7,0,7,0
+Ricardo Hocevar,BRA,1,0,1,0
+Paolo Lorenzi,ITA,3,0,3,0
+Carlos Moya,ESP,6,0,6,0
+Dieter Kindlmann,GER,3,0,3,0
+Marinko Matosevic,AUS,5,0,5,0
+Simon Greul,GER,3,0,3,0
+Grega Zemlja,SLO,3,0,3,0
+Marcos Daniel,BRA,4,0,4,0
+Thiemo de Bakker,NED,2,0,2,0
+Pablo Cuevas,URU,2,0,2,0
+Jose Acasuso,ARG,6,0,6,0
+Nick Lindahl,AUS,2,0,2,0
+Daniel Koellerer,AUT,1,0,1,0
+David Guez,FRA,2,0,2,0
+Jason Murray Kubler,AUS,1,0,1,0
+Horacio Zeballos,ARG,3,0,3,0
+Rui Machado,POR,2,0,2,0
+Simon Stadler,GER,1,0,1,0
+Ruben Ramirez-Hidalgo,ESP,4,0,4,0
+Marco Crugnola,ITA,1,0,1,0
+Dustin Brown,GER,1,0,1,0
+Matteo Viola,ITA,1,0,1,0
+Cedrik-Marcel Stebe,GER,2,0,2,0
+Jurgen Zopp,EST,1,0,1,0
+Matthias Bachinger,GER,1,0,1,0
+Joao Souza,BRA,1,0,1,0
+Rik de Voest,RSA,1,0,1,0
+James Ward,GBR,1,0,1,0
+Greg Jones,AUS,1,0,1,0
+Jesse Huta Galung,NED,1,0,1,0
+Eric Prodon,FRA,1,0,1,0
+Alexander Kudryavtsev,RUS,1,0,1,0
+Albert Ramos,ESP,3,0,3,0
+Frederik Nielsen,DEN,1,0,1,0
+Benjamin Mitchell,AUS,2,0,2,0
+Peter Gojowczyk,GER,2,0,2,0
+Denis Kudla,USA,2,0,2,0
+Guido Pella,ARG,1,0,1,0
+Adrian Menendez-Maceiras,ESP,1,0,1,0
+Di Wu,CHN,2,0,2,0
+Jamie Baker,GBR,2,0,2,0
+Aljaz Bedene,SLO,2,0,2,0
+Luke Saville,AUS,1,0,1,0
+Igor Sijsling,NED,2,0,2,0
+John-Patrick Smith,AUS,1,0,1,0
+Rhyne Williams,USA,2,0,2,0
+Josselin Ouanna,FRA,1,0,1,0
+Steve Johnson,USA,2,0,2,0
+Daniel Munoz-De La Nava,ESP,1,0,1,0
+John Millman,AUS,1,0,1,0
+Adrian Ungur,ROU,1,0,1,0
+Ruben Bemelmans,BEL,1,0,1,0
+David Goffin,BEL,1,0,1,0
+Arnau Brugues-Davi,ESP,1,0,1,0
+Maxime Authom,BEL,1,0,1,0
+Julian Reister,GER,2,0,2,0
+Melle van Gemerden,NED,1,0,1,0
+Kenneth Carlsen,DEN,3,0,3,0
+Alex Calatrava,ESP,1,0,1,0
+Flavio Saretta,BRA,2,0,2,0
+Marc Kimmich,AUS,2,0,2,0
+Oliver Marach,AUT,2,0,2,0
+Jerome Haehnel,FRA,1,0,1,0
+Irakli Labadze,GEO,2,0,2,0
+Felix Mantilla,ESP,2,0,2,0
+Antony Dupuis,FRA,2,0,2,0
+Olivier Mutis,FRA,2,0,2,0
+Paul Baccanello,AUS,1,0,1,0
+Justin Gimelstob,USA,2,0,2,0
+Scott Draper,AUS,1,0,1,0
+Pavel Snobel,CZE,1,0,1,0
+Ivo Minar,CZE,3,0,3,0
+Jacob Adaktusson,SWE,1,0,1,0
+Robin Vik,CZE,1,0,1,0
+Juan-Antonio Marin,CRC,1,0,1,0
+Harel Levy,ISR,2,0,2,0
+Razvan Sabau,ROU,1,0,1,0
+Tomas Behrend,GER,2,0,2,0
+Alexander Waske,GER,2,0,2,0
+Fernando Vicente,ESP,1,0,1,0
+Bjorn Rehnquist,SWE,2,0,2,0
+Jiri Vanek,CZE,3,0,3,0
+Michael Lammer,SUI,1,0,1,0
+Alan Mackin,GBR,1,0,1,0
+Robert Kendrick,USA,3,0,3,0
+Sergio Roitman,ARG,2,0,2,0
+Alessio di Mauro,ITA,1,0,1,0
+Brian Wilson,USA,1,0,1,0
+Kristian Pless,DEN,1,0,1,0
+Nicolas Devilder,FRA,2,0,2,0
+Joseph Sirianni,AUS,1,0,1,0
+Werner Eschauer,AUT,1,0,1,0
+Konstantinos Economidis,GRE,1,0,1,0
+Diego Hartfield,ARG,1,0,1,0
+Martin Slanar,AUT,1,0,1,0
+Juan-Pablo Brzezicki,ARG,1,0,1,0
+Mathieu Montcourt,FRA,1,0,1,0
+Diego Junqueira,ARG,1,0,1,0
+Andrea Stoppini,ITA,1,0,1,0
+Samuel Groth,AUS,2,0,2,0
+Lamine Ouahab,ALG,1,0,1,0
+Ivan Navarro,ESP,1,0,1,0
+Martin Verkerk,NED,1,0,1,0
+Vadim Kutsenko,UZB,1,0,1,0
+Dennis Van Scheppingen,NED,1,0,1,0
+Jeff Salzenstein,USA,1,0,1,0
+Alexander Popp,GER,1,0,1,0
+Cecil Mamiit,PHI,1,0,1,0
+John van Lottum,NED,1,0,1,0
+Todd Larkham,AUS,1,0,1,0
+Albert Portas,ESP,1,0,1,0
+Younes El Aynaoui,MAR,1,0,1,0
+Brian Vahaly,USA,1,0,1,0
+Ivan Miranda,PER,1,0,1,0
+Ze Zhang,CHN,1,0,1,0
+Bradley Klahn,USA,1,0,1,0
+Lucas Pouille,FRA,1,0,1,0
+Federico Delbonis,ARG,1,0,1,0
+Alejandro Gonzalez,COL,1,0,1,0
+Pablo Carreno-Busta,ESP,1,0,1,0
+Aleksandr Nedovesov,KAZ,1,0,1,0
+Jan-Lennard Struff,GER,1,0,1,0
+Jiri Vesely,CZE,1,0,1,0
+Jordan Thompson,AUS,1,0,1,0
